@@ -1,0 +1,23 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+#fo_oldal{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    text-align: center;
+    
+}
+
+main{
+    margin: auto;
+    border: white solid 2px;
+    max-width: 50%;
+    
+    max-height: 50%;
+}
+.fo_li_tagek{
+    list-style-type: none;
+}
